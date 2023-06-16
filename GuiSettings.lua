@@ -1,5 +1,5 @@
-local GuiName = "Gui"
-local TabName = "Tab"
+local GuiName = "Gui" --your Gui name
+local TabName = "Tab" --yuor Tab name
 
 --Library--
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
